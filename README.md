@@ -3,6 +3,7 @@
 ## **Project Objective**
 To develop a comprehensive exploratory data analysis of a Super Store details. This provides insights into key performance metrics.
 Exploratory data analysis (EDA) is an approach of analysing the data sets to summarize thrie main characteristics often using statistical graphics and other dats visulization methods.
+The Superstore sample data is taken from kaggle for reference data sinsights.
 
 ## **Python Library used:**
 import pandas as pd
